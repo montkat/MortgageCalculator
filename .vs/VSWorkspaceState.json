@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\MortgageCalculatorProgram",
     "\\MortgageCalculatorProgram\\MortgageCalcTest",
     "\\MortgageCalculatorProgram\\MortgageCalculator",
-    "\\MortgageCalculatorProgram\\MortgageCalculatorApp"
+    "\\MortgageCalculatorProgram\\MortgageCalculatorApp",
+    "\\MortgageCalculatorProgram\\packages"
   ],
   "PreviewInSolutionExplorer": false
 }

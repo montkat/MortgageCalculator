@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\katel\\Katelynn-Repo\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj": {}
+    "C:\\Users\\katel\\source\\repos\\MortgageCalculatorNew\\MortgageCalculatorProgram\\MortgageCalculator\\MortgageCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\katel\\Katelynn-Repo\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj": {
+    "C:\\Users\\katel\\source\\repos\\MortgageCalculatorNew\\MortgageCalculatorProgram\\MortgageCalculator\\MortgageCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katel\\Katelynn-Repo\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\katel\\source\\repos\\MortgageCalculatorNew\\MortgageCalculatorProgram\\MortgageCalculator\\MortgageCalculator.csproj",
         "projectName": "MontkatMortgageCalc",
-        "projectPath": "C:\\Users\\katel\\Katelynn-Repo\\MortgageCalculator\\MortgageCalculator\\MortgageCalculator.csproj",
+        "projectPath": "C:\\Users\\katel\\source\\repos\\MortgageCalculatorNew\\MortgageCalculatorProgram\\MortgageCalculator\\MortgageCalculator.csproj",
         "packagesPath": "C:\\Users\\katel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katel\\Katelynn-Repo\\MortgageCalculator\\MortgageCalculator\\obj\\",
+        "outputPath": "C:\\Users\\katel\\source\\repos\\MortgageCalculatorNew\\MortgageCalculatorProgram\\MortgageCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
