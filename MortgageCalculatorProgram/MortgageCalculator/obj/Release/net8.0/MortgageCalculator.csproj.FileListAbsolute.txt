@@ -1,0 +1,13 @@
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\bin\Release\net8.0\MortgageCalculator.deps.json
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\bin\Release\net8.0\MortgageCalculator.dll
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\bin\Release\net8.0\MortgageCalculator.pdb
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.AssemblyInfo.cs
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.sourcelink.json
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.dll
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\refint\MortgageCalculator.dll
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.pdb
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\ref\MortgageCalculator.dll
+C:\Users\katel\Katelynn-Repo\MortgageCalculator\MortgageCalculator\obj\Release\net8.0\MortgageCalculator.csproj.AssemblyReference.cache
